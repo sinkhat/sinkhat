@@ -19,15 +19,22 @@
             <h1>Here is the aperture of my eyes</h1>
             <p> SINKHAT's photos and artworks</p>
         </div>
+        
+        <div>
             <h2> works and activities </h2>
             <a href="works.html" target="..blank"> Artworks, photography and writings </a>
-        <h2> Resume </h2>
-        <a href="resume.html" target="..bank"> exhibitions, work experiences</a>
-        <h2> for sale </h2>
-        <a href="for%20sale.html" target="..blank"> If you like a work to have, follow this steps</a>
-        <hr>
-        <a href="#top">back to top</a>
-    
+            <h2> Resume </h2>
+            <a href="resume.html" target="..bank"> exhibitions, work experiences</a>
+            <h2> for sale </h2>
+            <a href="for%20sale.html" target="..blank"> If you like a work to have, follow this steps</a>
+        </div>
+        
+         <hr>
+        
+        <div>
+            <a href="#top">back to top</a>
+        </div>
+        
     </body>
 
 
