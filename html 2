@@ -16,6 +16,32 @@
     <body>
     
         <div class="wrapper">
+           
+             <nav>
+           
+             <ul>
+                
+                 <div class="links">
+                         <li>LINK</li>
+                         <li>LINK</li>
+                         <li>LINK</li>
+                         <li>LINK</li>
+                 </div>
+                 
+                 <div class="images">
+                 
+                    <img src="images/instagram.jpg">
+                    <img src="images/twitter.jpg">
+                    <img src="images/youtube.jpg">
+                 
+            
+                 </div>
+             </ul>
+             
+        
+        </nav>
+            
+            
             
             <div id="banner">
             <img src="images/main.jpg" width="100%">
@@ -81,7 +107,8 @@
             </div>
         </div>
         
-         
+        
+        
     </body>
 
 
