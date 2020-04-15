@@ -101,4 +101,40 @@ section, aside{
     letter-spacing: 10px;
     
 }
+
+nav{
+    
+    background: rgba(0, 0, 0, 0.6);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+    
+}
+
+nav ul:after{
+    content: "";
+    display:block;
+    clear: both;
+    
+}
+
+nav li {
+    list-style-type: none;
+    color: white;
+    display: inline-block;
+    float: right;
+    padding: 10px;
+    margin: 0 10px;
+    
+}
+
+nav img {
+    display:block;
+    float:left;
+    margin: 0 20px;
+    max-width: 40px;
+    
+}
     
